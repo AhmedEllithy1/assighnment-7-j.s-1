@@ -13,6 +13,12 @@
 
 
 
+
+
+
+
+
+
 // ******************* q-2 ********************
 
 // var num = Number (window.prompt("enter the number")) ;
@@ -175,7 +181,7 @@
 
 // var num = Number (window.prompt("enter the number"));
 
-// for ( var i = 0   ;  i < num    ; i+= 1  ){
+// for ( var i = 1   ;  i <= num    ; i+= 1  ){
 //     console.log(i);
 // }
 
@@ -196,11 +202,17 @@
 
 // ***************** q-10 **********************
 
-
-
-
+// var num  = Number (window.prompt("enter the number"));
+// for (var i = 1 ; i <= 12 ;  i++){
+//     console.log(num*i);
+// } 
 
 // ********************************************
+
+
+
+
+
 
 
 
@@ -221,6 +233,11 @@
 // }
 
 // ********************************************
+
+
+
+
+
 
 
 
